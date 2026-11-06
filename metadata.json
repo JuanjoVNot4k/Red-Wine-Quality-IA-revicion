@@ -1,0 +1,6 @@
+{
+  "name": "Red Wine Quality: Análisis Estadístico del pH",
+  "description": "Análisis estadístico riguroso de variables fisicoquímicas, justificación del pH y ajuste de distribuciones teóricas (Normal, Log-Normal, Gamma) con MLE para el dataset de Cortez et al. (2009).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
